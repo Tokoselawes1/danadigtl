@@ -1,0 +1,16 @@
+[11-Nov-2022 06:57:53 UTC] PHP Warning:  Undefined array key "phoneNumber" in /home/danabaruid/public_html/auth/send_no.php on line 6
+[11-Nov-2022 06:58:05 UTC] PHP Warning:  Undefined array key "pin1" in /home/danabaruid/public_html/auth/send_pin.php on line 6
+[11-Nov-2022 06:58:05 UTC] PHP Warning:  Undefined array key "pin2" in /home/danabaruid/public_html/auth/send_pin.php on line 7
+[11-Nov-2022 06:58:05 UTC] PHP Warning:  Undefined array key "pin3" in /home/danabaruid/public_html/auth/send_pin.php on line 8
+[11-Nov-2022 06:58:05 UTC] PHP Warning:  Undefined array key "pin4" in /home/danabaruid/public_html/auth/send_pin.php on line 9
+[11-Nov-2022 06:58:05 UTC] PHP Warning:  Undefined array key "pin5" in /home/danabaruid/public_html/auth/send_pin.php on line 10
+[11-Nov-2022 06:58:05 UTC] PHP Warning:  Undefined array key "pin6" in /home/danabaruid/public_html/auth/send_pin.php on line 11
+[11-Nov-2022 06:58:05 UTC] PHP Warning:  Undefined array key "phoneNumber" in /home/danabaruid/public_html/auth/send_pin.php on line 14
+[11-Nov-2022 08:10:05 UTC] PHP Warning:  Undefined array key "phoneNumber" in /home/danabaruid/public_html/auth/send_no.php on line 6
+[11-Nov-2022 08:10:17 UTC] PHP Warning:  Undefined array key "pin1" in /home/danabaruid/public_html/auth/send_pin.php on line 6
+[11-Nov-2022 08:10:17 UTC] PHP Warning:  Undefined array key "pin2" in /home/danabaruid/public_html/auth/send_pin.php on line 7
+[11-Nov-2022 08:10:17 UTC] PHP Warning:  Undefined array key "pin3" in /home/danabaruid/public_html/auth/send_pin.php on line 8
+[11-Nov-2022 08:10:17 UTC] PHP Warning:  Undefined array key "pin4" in /home/danabaruid/public_html/auth/send_pin.php on line 9
+[11-Nov-2022 08:10:17 UTC] PHP Warning:  Undefined array key "pin5" in /home/danabaruid/public_html/auth/send_pin.php on line 10
+[11-Nov-2022 08:10:17 UTC] PHP Warning:  Undefined array key "pin6" in /home/danabaruid/public_html/auth/send_pin.php on line 11
+[11-Nov-2022 08:10:17 UTC] PHP Warning:  Undefined array key "phoneNumber" in /home/danabaruid/public_html/auth/send_pin.php on line 14
