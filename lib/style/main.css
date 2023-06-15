@@ -112,7 +112,7 @@ label {
     border: none;
     width: 70px;
     height: 40px;
-    margin-top: 500px;
+    margin-top: 288px;
     transition: 0.3s;
 }
 .send_data:active,.send_data:hover,.send_data:focus{
